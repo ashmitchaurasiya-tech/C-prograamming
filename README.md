@@ -24,23 +24,6 @@ A collection of C programs created to practice programming fundamentals, improve
 * **Compiler:** GCC
 * **IDE:** Visual Studio Code
 
-## 📂 Repository Structure
-
-```text
-C-Practice/
-│
-├── Basics/
-├── Conditional_Statements/
-├── Loops/
-├── Patterns/
-├── Functions/
-├── Arrays/
-├── Strings/
-├── Pointers/
-├── Structures/
-├── Recursion/
-└── File_Handling/
-```
 
 ## 🎯 Purpose
 
@@ -55,17 +38,6 @@ C-Practice/
 2. Open the project in VS Code.
 3. Compile a C program using GCC.
 
-```bash
-gcc filename.c -o output
-```
-
-4. Run the program.
-
-```bash
-./output
-```
-
-**Note:** On Windows, use `.\output.exe` to run the compiled program in PowerShell.
 
 ---
 
